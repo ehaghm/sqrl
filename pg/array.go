@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/parsyl/sqrl"
+	"github.com/ehaghm/sqrl"
 )
 
 // Array converts value into Postgres Array

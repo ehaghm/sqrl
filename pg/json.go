@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/parsyl/sqrl"
+	"github.com/ehaghm/sqrl"
 )
 
 // JSONB converts value into Postgres JSONB

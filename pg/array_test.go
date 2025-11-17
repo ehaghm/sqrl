@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/parsyl/sqrl"
-	"github.com/parsyl/sqrl/pg"
+	"github.com/ehaghm/sqrl"
+	"github.com/ehaghm/sqrl/pg"
 	"github.com/stretchr/testify/assert"
 )
 
